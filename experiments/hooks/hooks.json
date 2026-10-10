@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [{"hooks": [{"type": "command", "command": "node ${PLUGIN_ROOT}/hooks/monitor.mjs", "statusMessage": "Recording opted-in prompt event"}]}],
+    "Stop": [{"hooks": [{"type": "command", "command": "node ${PLUGIN_ROOT}/hooks/monitor.mjs", "statusMessage": "Recording opted-in stop event"}]}]
+  }
+}
