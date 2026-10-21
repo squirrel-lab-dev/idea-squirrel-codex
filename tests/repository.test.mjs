@@ -27,7 +27,7 @@ test('default package has real metadata, skill and image, no automatic integrati
   const manifest = json('plugins/ai-behavior-reviewer/.codex-plugin/plugin.json');
   assert.equal(manifest.name, basename(plugin));
   assert.equal(manifest.version, '0.1.0-preview.1');
-  assert.equal(manifest.author.name, 'zhenyu200308-web');
+  assert.equal(manifest.author.name, 'squirrel-lab-dev');
   for (const field of ['hooks', 'apps', 'mcpServers']) assert.equal(manifest[field], undefined);
   assert.ok(existsSync(resolve(plugin, manifest.interface.logo)));
   assert.ok(existsSync(resolve(plugin, 'skills/conversation-review/SKILL.md')));

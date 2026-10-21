@@ -6,7 +6,7 @@
 
 **Windows 桌面便携预览版 · 0.2.0 · 2026-10-17 · 通用 API**
 
-**[下载桌面松鼠](https://github.com/zhenyu200308-web/idea-squirrel-codex/releases/tag/desktop-v0.2.0-preview.20261017.012749)** · **[跟着按钮操作：图文指南](docs/桌面版图文指南.md)** · [旧技能插件](docs/旧插件首页.md)
+**[下载桌面松鼠](https://github.com/squirrel-lab-dev/idea-squirrel-codex/releases/tag/desktop-v0.2.0-preview.20261017.012749)** · **[跟着按钮操作：图文指南](docs/桌面版图文指南.md)** · [旧技能插件](docs/旧插件首页.md)
 
 > 桌面软件不是网站或 ChatGPT 网页扩展。仓库已公开，任何人都可以查看介绍并下载。未签名预览版，需要完整解压后运行，不是 Setup 安装器。
 
@@ -88,4 +88,4 @@ Releases（GitHub 下载区）    桌面程序 ZIP
 
 现有仓库源码主要是旧插件，桌面源码尚未同步。公开展示与下载不代表新增开源授权；本次未添加新的开源许可证。
 
-[反馈问题](https://github.com/zhenyu200308-web/idea-squirrel-codex/issues)请写版本、点击步骤、预期与实际结果，用脱敏或虚构例子。[发布记录](docs/发布记录.md)
+[反馈问题](https://github.com/squirrel-lab-dev/idea-squirrel-codex/issues)请写版本、点击步骤、预期与实际结果，用脱敏或虚构例子。[发布记录](docs/发布记录.md)
